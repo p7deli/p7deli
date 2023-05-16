@@ -14,4 +14,4 @@
 
 <br>
 <h2 align="right">لینک های صفحات مجازی من ☄️:</h2>
-<li><a class="a1" href="https://www.instagram.com/p7deli/"><i class="fab fa-instagram"></i></a></li>
+<a href="https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a>
