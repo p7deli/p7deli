@@ -7,3 +7,11 @@
 🔔 عاشق گیم های ورزشی 🫤😃
 🏥 متولد 14/09/1375 زادگاه آستارا 
 🏠 محل سکونت : تهران , شهریار</p>
+<h2 align="right">🎓 مهارت‌ها و ابزارهایی که استفاده میکنم:</h2>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
+
+<br>
+<h2 align="right">لینک های صفحات مجازی من ☄️:</h2>
+<li><a class="a1" href="https://www.instagram.com/p7deli/"><i class="fab fa-instagram"></i></a></li>
