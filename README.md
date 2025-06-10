@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" width="350"/>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?p7deli=username&theme=react-dark)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?p7deli=p7deli&theme=react-dark)
 
 ---
 
